@@ -1,14 +1,14 @@
 # 💫 About Me
 Hi! I’m **Al Fahim Fuad** 🌱  
-I’m currently learning **AI & Machine Learning** and exploring **Web Development & Open Source Projects**.  
+A **CSE student at East West University (EWU)**, passionate about **AI & Machine Learning**, **Web Development**, and contributing to **Open Source Projects**.  
+ 
 
 ---
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fuad00000000000)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-fahim-36126636)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Innovenja)  
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Al%20Fahim)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Innovenja)   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fuad556805@gmail.com)  
 
 ---
